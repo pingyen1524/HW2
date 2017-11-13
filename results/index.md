@@ -3,15 +3,37 @@
 # Project 2 / Panorama Stitching
 
 ## Overview
-The project is related to 
-> quote
+The project is to learn how to
 
 
 ## Implementation
-1. One
+1. Matching SIFT Descriptors
 	* item
 	* item
-2. Two
+
+```
+Code highlights
+```
+
+1. Fitting the Transformation Matrix
+	* item
+	* item
+
+```
+Code highlights
+```
+
+1. RANSAC
+	* item
+	* item
+
+```
+Code highlights
+```
+
+1. Stitching Multiple Images
+	* item
+	* item
 
 ```
 Code highlights
