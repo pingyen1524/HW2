@@ -26,7 +26,7 @@ Code highlights
 <table border=1>
 <tr>
 <td>
-<img src="uttower_pano.png" width="99%"/>
+<img src="uttower_pano.jpg" width="99%"/>
 </td>
 </tr>
 
