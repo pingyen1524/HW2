@@ -8,8 +8,7 @@ The project is to learn how to
 
 ## Implementation
 1. Matching SIFT Descriptors
-	* item
-	* item
+
 
 
    * Code highlights:
@@ -36,8 +35,6 @@ The project is to learn how to
 ```
 
 2. Fitting the Transformation Matrix
-	* item
-	* item
 
 
 
@@ -48,8 +45,6 @@ The project is to learn how to
 ```
 
 3. RANSAC
-	* item
-	* item
 
 
 
@@ -68,8 +63,6 @@ The project is to learn how to
 ```
 
 4. Stitching Multiple Images
-	* item
-	* item
 
 
 
