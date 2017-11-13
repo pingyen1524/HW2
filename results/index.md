@@ -12,7 +12,7 @@ The project is to learn how to
 	* item
 
 
-   Code highlights:
+   * Code highlights:
 ```
     N1 = descriptor1.shape[0]
     N2 = descriptor2.shape[0]
@@ -41,7 +41,7 @@ The project is to learn how to
 
 
 
-   Code highlights:
+   * Code highlights:
 ```
     H_tran = np.linalg.lstsq(np.transpose(P1), np.transpose(P2))[0]
     H = np.transpose(H_tran)
@@ -53,7 +53,7 @@ The project is to learn how to
 
 
 
-   Code highlights:
+   * Code highlights:
 ```
     match_num = match.shape[0]
     pt1_m = pt1[match[:, 0].astype(int),:]
@@ -73,7 +73,7 @@ The project is to learn how to
 
 
 
-   Code highlights:
+   * Code highlights:
 ```
     if refFrameIndex > currentFrameIndex:
         T = i_To_iPlusOne_Transform[refFrameIndex-1];
