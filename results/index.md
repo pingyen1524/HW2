@@ -26,19 +26,13 @@ Code highlights
 <table border=1>
 <tr>
 <td>
-<img src="placeholder.jpg" width="24%"/>
-<img src="placeholder.jpg"  width="24%"/>
-<img src="placeholder.jpg" width="24%"/>
-<img src="placeholder.jpg" width="24%"/>
+<img src="ypano.png" width="99%"/>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="placeholder.jpg" width="24%"/>
-<img src="placeholder.jpg"  width="24%"/>
-<img src="placeholder.jpg" width="24%"/>
-<img src="placeholder.jpg" width="24%"/>
+<img src="pano.png" width="99%"/>
 </td>
 </tr>
 
