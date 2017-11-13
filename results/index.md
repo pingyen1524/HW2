@@ -1,4 +1,4 @@
-# Your Name <span style="color:red">(id)</span>
+# 林秉言 <span style="color:red">(106061524)</span>
 
 # Project 2 / Panorama Stitching
 
