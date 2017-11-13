@@ -60,7 +60,7 @@ The project is to learn how to find transformation matrix by SIFT match points. 
 ```
 
 4. Stitching Multiple Images
-
+* By all the previous steps, we could find the transformation matrix between a frame and ones previous or next to it. But if we want to stitch all images together into a panorama, we need to calculate all transformation matrice to the reference frame. For those frames whose indice are smaller than reference frame index, we can calculate the transformation matrix simply by multiplying all transformation matrice between them. And for those frames whose indice are larger than reference frame index, we need to calculate its inverse transform to "go back" from larger index to smaller index. Also, when reference frame index is the same as the current frame index, the matrix remains the same.
 
 * Code highlights:
 ```
