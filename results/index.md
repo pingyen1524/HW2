@@ -26,6 +26,12 @@ Code highlights
 <table border=1>
 <tr>
 <td>
+<img src="uttower_pano.png" width="99%"/>
+</td>
+</tr>
+
+<tr>
+<td>
 <img src="Hanging_pano.png" width="99%"/>
 </td>
 </tr>
