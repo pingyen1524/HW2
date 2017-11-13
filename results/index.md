@@ -3,7 +3,7 @@
 # Project 2 / Panorama Stitching
 
 ## Overview
-     The project is to learn how to find transformation matrix by SIFT match points. And then, try to implement RANSAC for the next part. Finally, by the transformation matrice, I can stitch several images into a panorama.
+The project is to learn how to find transformation matrix by SIFT match points. And then, try to implement RANSAC for the next part. Finally, by the transformation matrice, I can stitch several images into a panorama.
 
 
 ## Implementation
