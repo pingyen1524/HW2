@@ -11,7 +11,8 @@ The project is to learn how to
 	* item
 	* item
 
-Code highlights:
+
+   Code highlights:
 ```
     N1 = descriptor1.shape[0]
     N2 = descriptor2.shape[0]
@@ -38,7 +39,9 @@ Code highlights:
 	* item
 	* item
 
-Code highlights:
+
+
+   Code highlights:
 ```
     H_tran = np.linalg.lstsq(np.transpose(P1), np.transpose(P2))[0]
     H = np.transpose(H_tran)
@@ -48,7 +51,9 @@ Code highlights:
 	* item
 	* item
 
-Code highlights:
+
+
+   Code highlights:
 ```
     match_num = match.shape[0]
     pt1_m = pt1[match[:, 0].astype(int),:]
@@ -66,7 +71,9 @@ Code highlights:
 	* item
 	* item
 
-Code highlights:
+
+
+   Code highlights:
 ```
     if refFrameIndex > currentFrameIndex:
         T = i_To_iPlusOne_Transform[refFrameIndex-1];
