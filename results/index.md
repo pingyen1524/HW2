@@ -23,6 +23,8 @@ Code highlights
 
 ### Results
 
+There are some examples I processed with image stitchin.
+
 <table border=1>
 <tr>
 <td>
