@@ -8,7 +8,7 @@ The project is to learn how to find transformation matrix by SIFT match points. 
 
 ## Implementation
 1. Matching SIFT Descriptors
-*In this part, I am going to find match points between two SIFT points descriptor. The condition for a pair of match SIFT points is whether the smallest Euclidean distance from descriptor2 to descriptor1 is smaller than the second smallest one multiplied by threshold(THRESH). In this case, THRESH is 0.7 as recommanded.
+* In this part, I am going to find match points between two SIFT points descriptor. The condition for a pair of match SIFT points is whether the smallest Euclidean distance from descriptor2 to descriptor1 is smaller than the second smallest one multiplied by threshold(THRESH). In this case, THRESH is 0.7 as recommanded.
 
 * Code highlights:
 ```
@@ -34,7 +34,7 @@ The project is to learn how to find transformation matrix by SIFT match points. 
 ```
 
 2. Fitting the Transformation Matrix
-
+* After getting the match pairs of SIFT points from previous part, an affine matrix between two images can be calculated. Instead of finding a unknown matrix H with known matrice P1, P2 satisfying the system H*P1=P2, we can find H indirectly by H' because of the property P1'*H'=P2'. 
 
 * Code highlights:
 ```
