@@ -43,7 +43,7 @@ The project is to learn how to find transformation matrix by SIFT match points. 
 ```
 
 3. RANSAC
-* While implementing RANSAC, we need to find a smallest dists. To do so, the coding part below needed to be processed iteratively. The output dists is the Euclidean distance between H*pt1_m and pt2_m, where pt1_m is an array store all match points from pt1, and sa does pt2_m from pt2.
+* RANSAC is to find the best part of match points to be "inliners". While implementing RANSAC, we need to find a smallest dists. To do so, the coding part below needed to be processed iteratively. The output dists is the Euclidean distance between H*pt1_m and pt2_m, where pt1_m is an array store all match points from pt1, and sa does pt2_m from pt2.
 
 * Code highlights:
 ```
